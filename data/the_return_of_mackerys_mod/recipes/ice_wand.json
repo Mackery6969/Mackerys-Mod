@@ -1,0 +1,30 @@
+{
+  "group": "ice_wand",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blue_ice"
+    },
+    "2": {
+      "item": "the_return_of_mackerys_mod:powdered_snowball"
+    },
+    "4": {
+      "item": "the_return_of_mackerys_mod:ice_rod"
+    },
+    "5": {
+      "item": "minecraft:blue_ice"
+    },
+    "6": {
+      "item": "the_return_of_mackerys_mod:ice_rod"
+    }
+  },
+  "result": {
+    "item": "the_return_of_mackerys_mod:ice_wand",
+    "count": 1
+  }
+}

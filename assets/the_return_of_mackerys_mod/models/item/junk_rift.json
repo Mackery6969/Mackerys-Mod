@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "the_return_of_mackerys_mod:items/junk_rift"
+  }
+}

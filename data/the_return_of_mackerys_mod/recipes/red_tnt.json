@@ -1,0 +1,42 @@
+{
+  "group": "red_tnt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_return_of_mackerys_mod:hardened_netherrack"
+    },
+    "1": {
+      "item": "the_return_of_mackerys_mod:red_gunpowder"
+    },
+    "2": {
+      "item": "the_return_of_mackerys_mod:hardened_netherrack"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "minecraft:gunpowder"
+    },
+    "7": {
+      "item": "minecraft:string"
+    },
+    "8": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "the_return_of_mackerys_mod:red_tnt",
+    "count": 1
+  }
+}

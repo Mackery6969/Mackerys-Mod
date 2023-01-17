@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "the_return_of_mackerys_mod:junk_rift"
+    },
+    "title": {
+      "translate": "advancements.exposed.title"
+    },
+    "description": {
+      "translate": "advancements.exposed.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "exposed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "the_return_of_mackerys_mod:start"
+}

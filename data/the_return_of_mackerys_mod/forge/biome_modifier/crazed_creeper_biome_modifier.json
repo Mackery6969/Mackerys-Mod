@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "the_return_of_mackerys_mod:crazed_creeper",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

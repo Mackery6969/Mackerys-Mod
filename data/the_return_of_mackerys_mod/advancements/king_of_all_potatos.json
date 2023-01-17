@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "the_return_of_mackerys_mod:golden_potato"
+    },
+    "title": {
+      "translate": "advancements.king_of_all_potatos.title"
+    },
+    "description": {
+      "translate": "advancements.king_of_all_potatos.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "king_of_all_potatos": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "the_return_of_mackerys_mod:golden_potato"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "the_return_of_mackerys_mod:exposed"
+}

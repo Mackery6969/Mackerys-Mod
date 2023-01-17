@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "the_return_of_mackerys_mod:hardened_netherrack",
+  "step": "underground_ores"
+}

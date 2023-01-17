@@ -1,0 +1,16 @@
+{
+  "group": "blue_ice",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_return_of_mackerys_mod:ice_rod"
+    },
+    {
+      "item": "minecraft:ice"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blue_ice",
+    "count": 1
+  }
+}

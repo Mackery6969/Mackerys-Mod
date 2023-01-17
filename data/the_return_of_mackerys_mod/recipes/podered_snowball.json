@@ -1,0 +1,16 @@
+{
+  "group": "powdered_snowball",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:powder_snow_bucket"
+    }
+  ],
+  "result": {
+    "item": "the_return_of_mackerys_mod:powdered_snowball",
+    "count": 2
+  }
+}

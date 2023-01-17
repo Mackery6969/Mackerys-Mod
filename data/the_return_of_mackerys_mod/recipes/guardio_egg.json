@@ -1,0 +1,25 @@
+{
+  "group": "guardio_egg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_return_of_mackerys_mod:red_gunpowder"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:wooden_sword"
+    }
+  ],
+  "result": {
+    "item": "the_return_of_mackerys_mod:guardio_egg",
+    "count": 1
+  }
+}

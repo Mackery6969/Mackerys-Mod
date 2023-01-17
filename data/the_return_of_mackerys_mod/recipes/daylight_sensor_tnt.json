@@ -1,0 +1,42 @@
+{
+  "group": "daylight_sensor_tnt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "minecraft:daylight_detector"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "the_return_of_mackerys_mod:red_gunpowder"
+    },
+    "4": {
+      "item": "minecraft:tnt"
+    },
+    "5": {
+      "item": "the_return_of_mackerys_mod:red_gunpowder"
+    },
+    "6": {
+      "tag": "minecraft:sand"
+    },
+    "7": {
+      "tag": "minecraft:sand"
+    },
+    "8": {
+      "tag": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "the_return_of_mackerys_mod:daylight_tnt",
+    "count": 1
+  }
+}

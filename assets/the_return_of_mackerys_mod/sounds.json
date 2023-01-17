@@ -1,0 +1,62 @@
+{
+  "memories": {
+    "category": "record",
+    "subtitle": "subtitles.memories",
+    "sounds": [
+      {
+        "name": "the_return_of_mackerys_mod:memories",
+        "stream": true
+      }
+    ]
+  },
+  "whynotboi-hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.whynotboi-hurt",
+    "sounds": [
+      {
+        "name": "the_return_of_mackerys_mod:me-and-mackery-finish-the-final-boss-of-nsmb2-_audiotrimmer.com_",
+        "stream": false
+      }
+    ]
+  },
+  "whynotboi-death": {
+    "category": "neutral",
+    "subtitle": "subtitles.whynotboi-death",
+    "sounds": [
+      {
+        "name": "the_return_of_mackerys_mod:getting-banned-off-youtube-be-like",
+        "stream": false
+      }
+    ]
+  },
+  "oh_no": {
+    "category": "neutral",
+    "subtitle": "subtitles.oh_no",
+    "sounds": [
+      {
+        "name": "the_return_of_mackerys_mod:ugandan-knuckles-oh-no-meme-sound-effect",
+        "stream": false
+      }
+    ]
+  },
+  "wae": {
+    "category": "neutral",
+    "subtitle": "subtitles.wae",
+    "sounds": [
+      {
+        "name": "the_return_of_mackerys_mod:do-you-know-da-way-meme-sound-effect-full",
+        "stream": false
+      }
+    ]
+  },
+  "teleport": {
+    "category": "neutral",
+    "subtitle": "subtitles.teleport",
+    "sounds": [
+      {
+        "name": "the_return_of_mackerys_mod:teleport",
+        "stream": false
+      }
+    ]
+  }
+}

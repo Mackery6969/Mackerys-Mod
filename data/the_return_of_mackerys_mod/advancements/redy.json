@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "the_return_of_mackerys_mod:red_tnt"
+    },
+    "title": {
+      "translate": "advancements.redy.title"
+    },
+    "description": {
+      "translate": "advancements.redy.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "redy": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "the_return_of_mackerys_mod:red_tnt"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "the_return_of_mackerys_mod:hot_red"
+}
